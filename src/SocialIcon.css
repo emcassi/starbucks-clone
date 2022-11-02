@@ -1,0 +1,16 @@
+.social-icon__white {
+     width: 32px;
+     height: 32px;
+     background-color: black;
+    color: black;
+    border-radius: 16px;
+}
+
+.social-icon__black  {
+    width: 32px;
+    height: 32px;
+    background-color: black;
+    border-radius: 16px;
+    color: black;
+    
+}

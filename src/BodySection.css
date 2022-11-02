@@ -1,0 +1,46 @@
+.body-section {
+    background-color: #006241;
+    color: white;
+    align-items: center;
+    margin: 25px 0;
+    width: 1440px;
+    padding: 0;
+    display: flex;
+}
+.body-section__img img {
+  width: 720px;
+}
+
+.info-box {
+    justify-content: center;
+    width:  720px;
+}
+
+.body-section__info {
+  align-content: center;
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.body-section__info h1 {
+    font-size: 4rem;
+}
+
+.body-section__info p {
+    font-size: 1.5rem;
+}
+
+.body-section__info button {
+    height: 2rem;
+    background-color: #006241;
+    color: white;
+    border-color: white;
+    margin: 0 10px; 
+    padding: 0 20px;
+    border-radius: 17px;
+    font-family: SoDoSans;
+    font-size: 1rem;
+    font-weight: 600;
+    border-width: 1.5px;
+}
