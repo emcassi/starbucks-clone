@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+}
+ 
+.navbar-left {
+    display: flex;
+}
+
+.navbar-left svg  {
+    width: 48px;
+}
+
+.navbar-right {
+    display: flex;
+}
+ 
+.navbar-right__buttons {
+    display: flex;
+}
