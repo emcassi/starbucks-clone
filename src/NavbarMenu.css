@@ -1,6 +1,14 @@
-* {
-    font-family: So;
-}
 .navbar-menu {
     display: flex;
+}
+
+.navbar-menu ul {
+    list-style-type: none;
+}
+
+.navbar-menu a {
+    font-family: SoDoSans-Bold; 
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
 }

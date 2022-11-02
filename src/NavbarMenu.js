@@ -6,17 +6,17 @@ function NavbarMenu() {
     <div className="navbar-menu">
       <ul>
         <li>
-          <a href="#">Menu</a>
+          <a href="#">MENU</a>
         </li>
       </ul>
       <ul>
         <li>
-          <a href="#">Rewards</a>
+          <a href="#">REWARDS</a>
         </li>
       </ul>
       <ul>
         <li>
-          <a href="#">Gift Cards</a>
+          <a href="#">GIFT CARDS</a>
         </li>
       </ul>
     </div>

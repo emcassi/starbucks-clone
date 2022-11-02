@@ -1,5 +1,9 @@
 .navbar{
     display: flex;
+    margin: 0 auto;
+    padding: 25px 0; 
+    justify-content: space-between;
+    align-items: center;
 }
  
 .navbar-left {
@@ -16,4 +20,24 @@
  
 .navbar-right__buttons {
     display: flex;
+}
+
+.navbar-right__buttons button{
+    height: 2rem;
+    margin: 0 10px; 
+    padding: 0 20px;
+    border-radius: 17px;
+    font-family: SoDoSans;
+    font-weight: 600;
+    border-width: 0.5px;
+}
+
+.navbar-button__black {
+    background-color: black;
+    color: white;
+}
+
+.navbar-button__white {
+    background-color: white;
+    color: black;
 }

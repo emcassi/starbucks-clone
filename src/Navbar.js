@@ -14,8 +14,8 @@ function Navbar() {
         <div className="navbar-right">
           <FindAStore/>
           <div className="navbar-right__buttons">
-            <RoundedButton>Sign in</RoundedButton>
-            <RoundedButton>Join now</RoundedButton>
+            <button className='navbar-button__white'>Sign in</button>
+            <button className='navbar-button__black'>Join now</button>
           </div>
         </div>
 

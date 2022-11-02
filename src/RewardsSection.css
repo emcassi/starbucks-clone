@@ -1,0 +1,45 @@
+.rewards-section {
+    display: flex;
+    background-color: #d4e9e2;
+    align-items: center;
+}
+
+.rewards-section__img {
+    height: 400px;
+    padding: 7px 0;
+} 
+
+.rewards-section__info {
+    padding-left: 50px;
+    line-height: 2rem;
+}
+
+.rewards-section__info h1 {
+    font-size: 1.45rem;
+    color: #1E3932;
+    font-weight: 600;
+}
+
+.rewards-section__info p {
+    width: 70%;
+    font-size: 1.2rem;
+}
+
+.rewards-section__info ul {
+    width: 80%;
+}
+
+.rewards-section__info li {
+    font-size: 1.2rem;
+}
+
+.rewards-section__info button {
+    background-color: #d4e9e2;
+    height: 35px;
+    padding: 0 10px;
+    border-radius: 17px;
+    font-family: SoDoSans;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-width: 0.5px;
+}

@@ -1,0 +1,7 @@
+.rounded-btn { 
+    height: 35px;
+    padding: 0 10px;
+    border-radius: 17px;
+    font-family: SoDoSans;
+    border-width: 0.5px;
+}
